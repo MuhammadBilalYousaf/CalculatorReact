@@ -14,7 +14,7 @@ This is a calculator app built using React. It is a simple calculator that can p
 
 
 ## Live Demo
-[calculator-react-4it8t6nxr-bilal-yousafs-projects.vercel.app](url)
+[calculator-react-4it8t6nxr-bilal-yousafs-projects.vercel.app]
 
 
 ## Getting Started
