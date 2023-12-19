@@ -14,7 +14,7 @@ This is a calculator app built using React. It is a simple calculator that can p
 
 
 ## Live Demo
-
+https://muhammadbilalyousaf.github.io/CalculatorReact/
 
 
 ## Getting Started
